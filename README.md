@@ -1,6 +1,6 @@
 # Enterprise Employee Management & AI Assistant
 
-Starter full-stack project using:
+Full-stack project using:
 - Java 21
 - Spring Boot 3
 - Spring Security
